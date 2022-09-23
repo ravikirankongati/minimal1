@@ -1,19 +1,20 @@
-title: <p align="center"> Ravikiran Kongati </p>
-logo: /assets/img/2022-02-10_12-04-51.png
+title: <p align="center"> Sajan Kedia </p>
+logo: /assets/img/logo.png
+
 description:
   <p align="center">
- <a href="https://www.linkedin.com/in/ravikiran-kongati-80575545/">LinkedIn</a> |
-  <a href="https://github.com/ravikirankongati">GitHub</a>
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
  
   <br>  
-I am Senior Developer playing role of Associate Architect in Lifecycle Management for Machine Learning Team. 
-I started my career as a ABAP Developer with SAP Custom Development and since 2012 I have been development expert in various SAP Technology stack.
-I have served as an Associate Architect for multiple SAP Internal projects designing solutions and also delivering Rapid Deployment Solutions to Customers.
-Currently I am responsible for building solution for S/4HANA which simplifies consumption of Machine Learning. 
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
   <br>
   </p>
 
+
+
 theme: jekyll-theme-minimal
-
-
-
