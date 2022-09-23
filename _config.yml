@@ -1,8 +1,20 @@
 title: <p align="center"> Ravikiran Kongati </p>
 logo: /assets/img/2022-02-10_12-04-51.png
-description: Minimal is a theme for GitHub Pages.
+description:
+  <p align="center">
  <a href="https://www.linkedin.com/in/ravikiran-kongati-80575545/">LinkedIn</a> |
   <a href="https://github.com/ravikirankongati">GitHub</a>
+ 
+  <br>  
+I am Senior Developer playing role of Associate Architect in Lifecycle Management for Machine Learning Team. 
+I started my career as a ABAP Developer with SAP Custom Development and since 2012 I have been development expert in various SAP Technology stack.
+I have served as an Associate Architect for multiple SAP Internal projects designing solutions and also delivering Rapid Deployment Solutions to Customers.
+Currently I am responsible for building solution for S/4HANA which simplifies consumption of Machine Learning. 
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+
+
